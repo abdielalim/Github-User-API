@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari Disini</string>
+</resources>
